@@ -1,6 +1,6 @@
-# long
+# is__property
 
-A Long class for representing a 64 bit two's-complement integer value derived from the Closure Library for stand-alone use and extended with unsigned support.
+Tests if a property of a JavaScript object can be accessed using the dot (.) notation or if it must be enclosed in brackets, (ie use x[" ... "])
 
 ## usage
 ```ts
