@@ -1,4 +1,4 @@
-# is__property
+# is_property
 
 Tests if a property of a JavaScript object can be accessed using the dot (.) notation or if it must be enclosed in brackets, (ie use x[" ... "])
 
